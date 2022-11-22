@@ -174,4 +174,4 @@ with open(r"user.txt", "r",encoding='UTF-8') as f :
         qbc(line)
 print("by 焚香 (班前一题3.0):找不到的答案就选B")
 
-send("刷题完成","有时间在改进")
+send("刷题完成","时间会给你答案")
